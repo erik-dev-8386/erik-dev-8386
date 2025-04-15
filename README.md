@@ -40,7 +40,7 @@ Hiện tại mình đang trên hành trình trở thành **Full-stack Developer*
 
 ## 🌟 Dự án nổi bật
 
-### 🚀 Fullstack Project - Hệ thống bán mỹ phẩm
+### 🚀 Back-End Project - Hệ thống bán mỹ phẩm
 
 [![Backend](https://img.shields.io/badge/-Backend-6DB33F?style=flat&logo=spring&logoColor=white)](https://github.com/erik-dev-8386/skincare-product-sales-system-be) 
 [![Frontend](https://img.shields.io/badge/-Frontend-61DAFB?style=flat&logo=react&logoColor=white)](https://github.com/erik-dev-8386/skincare-product-sales-system-FE)
