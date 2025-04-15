@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5C6BC0&width=500&lines=Chào+mừng+đến+với+GitHub+của+mình!;Đoàn+Trung+Thành+-+.NET+Developer;Sinh+viên+CNTT+chuyên+ngành+.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=5C6BC0&width=500&lines=Chào+mừng+đến+với+GitHub+của+mình!;Đoàn+Trung+Thành+-+.NET+Developer;Sinh+viên+CNTT+chuyên+ngành+.NET" alt="Typing SVG" />
 </p>
 
 <p align="center">
