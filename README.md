@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=38BDF8&background=FF000000&center=true&vCenter=true&width=600&height=80&lines=Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+m%C3%ACnh!;%C4%90o%C3%A0n+Trung+Th%C3%A0nh+-+.NET+Developer;Chuy%C3%AAn+gia+C%23+%26+ASP.NET+Core;Sinh+vi%C3%AAn+CNTT+chuy%C3%AAn+ng%C3%A0nh+.NET" alt="Đoàn Trung Thành's GitHub Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=3500&pause=800&color=38BDF8&background=FF000000&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%91%8B+Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+m%C3%ACnh!;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+%C4%90o%C3%A0n+Trung+Th%C3%A0nh+-+.NET+Developer;%F0%9F%8E%93+Sinh+vi%C3%AAn+CNTT+chuy%C3%AAn+ng%C3%A0nh+.NET" alt="Đoàn Trung Thành's GitHub Profile" />
 </p>
 
   <p align="center">
