@@ -1,5 +1,12 @@
 <div align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5C6BC0&width=500&lines=Chào+mừng+đến+với+GitHub+của+mình!;Đoàn+Trung+Thành+-+.NET+Developer;Sinh+viên+CNTT+chuyên+ngành+.NET" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/165708993?v=4" width="150" style="border-radius: 50%;" alt="avatar" />
+</p>
+
   
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/trung.oan.thanh.504361)
   [![Email](https://img.shields.io/badge/-12b4thanh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12b4thanh@gmail.com)
