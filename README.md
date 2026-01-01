@@ -61,8 +61,6 @@ Xin chào! Mình là **Đoàn Trung Thành**. Hiện tại mình đang tập tru
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erik-dev-8386&theme=radical&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution Streak" width="100%" />
-  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erik-dev-8386&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Contribution Graph" width="100%" />
 </div>
 
