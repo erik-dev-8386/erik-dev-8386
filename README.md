@@ -1,4 +1,5 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%91%8B+Hi+there!+I'm+Th%C3%A0nh;Full-Stack+.NET+Developer;%E2%9A%99%EF%B8%8F+Tech+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
   
   <p align="center">
@@ -8,15 +9,14 @@
   <a href="mailto:12b4thanh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
   <a href="tel:+84966340303">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
-</div>
-
+  </div>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 👨‍💻 Giới thiệu bản thân
 
 Xin chào! Mình là **Đoàn Trung Thành**. Hiện tại mình đang tập trung phát triển kỹ năng để trở thành một **Full-stack Developer** chuyên nghiệp. Mình thích giải quyết các bài toán logic và tối ưu hóa quy trình hệ thống.
