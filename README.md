@@ -4,10 +4,6 @@
   <p align="center">
     <kbd>🎓 Sinh viên CNTT chuyên ngành .NET</kbd> | <kbd>Đam mê sáng tạo mã nguồn</kbd>
   </p>
-
-  <a href="https://www.facebook.com/trung.oan.thanh.504361">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="mailto:12b4thanh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
   </a>
