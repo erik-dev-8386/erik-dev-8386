@@ -17,7 +17,7 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-## 👨‍💻 Giới thiệu bản thân
+👨‍💻 Giới thiệu bản thân
 
 Xin chào! Mình là **Đoàn Trung Thành**. Hiện tại mình đang tập trung phát triển kỹ năng để trở thành một **Full-stack Developer** chuyên nghiệp. Mình thích giải quyết các bài toán logic và tối ưu hóa quy trình hệ thống.
 
